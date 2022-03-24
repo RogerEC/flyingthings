@@ -1,0 +1,64 @@
+@import url(//db.onlinewebfonts.com/c/0dbc8be51d0d159062bfbf0cde39a4dc?family=CastorOneW01-Regular);
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+main, .main {
+  flex: 1;
+}
+
+section {
+  padding-top: 56px;
+}
+
+.box-container {
+  width: 100%;
+}
+
+.box-content {
+  height: 0;
+  width: 100%;
+  padding-bottom: 53%;
+  background-image: url("/assets/img/ararangua-sc.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#login .box-content {
+  margin-top: -75px;
+  padding-bottom: 47%;
+}
+
+.font-ft {
+  font-family: "CastorOneW01-Regular";
+  font-size: 2.25rem !important;
+}
+
+.material-icons-outlined {
+  vertical-align: bottom;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  width: 100%;
+  text-align: center;
+  z-index:1000;
+}
+  
+.footer a {
+  color: #f2f2f2;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: rgb(200, 200, 200);
+}
