@@ -27,7 +27,7 @@ section {
   height: 0;
   width: 100%;
   padding-bottom: 53%;
-  background-image: url("/assets/img/ararangua-sc.jpg");
+  background-image: url("../img/ararangua-sc.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
