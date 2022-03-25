@@ -34,7 +34,7 @@ section {
   height: 0;
   width: 100%;
   padding-bottom: 53%;
-  background: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(255, 255, 255, 0.5)), url("../img/ararangua-sc.jpg");
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(255, 255, 255, 0.5)), url("../img/ararangua-sc.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
